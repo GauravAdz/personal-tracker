@@ -1,0 +1,11 @@
+{
+  "sourceRepository": "https://github.com/yuhonas/free-exercise-db",
+  "pinnedCommitSha": "b67291321c9f6b18fe2d29d18c7d14e6b17f6e90",
+  "catalogVersion": "fedb-b67291321c9f",
+  "upstreamMetadataLicense": "Unlicense",
+  "mediaLicensePolicy": "Upstream third-party photographs excluded under Architecture §5A license gate; replaced with self-created CC0/Unlicense SVG movement diagrams and local placeholder fallback.",
+  "fallbackImagePath": "exercises/placeholder.svg",
+  "exerciseCount": 75,
+  "inputSha256": "a89d03c983de07bcd8967de75261620c07f454cba1800f249c0858ade51f4c86",
+  "outputSha256": "c6c10e53e6bf6db298fa27af31825cd8454ba2bf67b5a21055f2ef66c9015cbb"
+}

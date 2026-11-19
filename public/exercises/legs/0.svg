@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 240" role="img" aria-label="Squat, Hinge & Lower-Body Drive — Start: Braced Stance">
+  <rect width="320" height="240" rx="16" fill="#151c18" />
+  <rect x="16" y="16" width="288" height="208" rx="12" fill="#1c2620" stroke="#3e5043" stroke-width="2" />
+  <text x="32" y="46" fill="#edf2ed" font-family="system-ui, sans-serif" font-size="14" font-weight="600">Squat, Hinge & Lower-Body Drive</text>
+  <text x="32" y="68" fill="#a0d9ac" font-family="system-ui, sans-serif" font-size="12">Start: Braced Stance</text>
+  <line x1="64" y1="192" x2="256" y2="192" stroke="#3e5043" stroke-width="4" stroke-linecap="round" />
+  <circle cx="160" cy="146" r="14" fill="#edf2ed" />
+  <line x1="160" y1="160" x2="160" y2="188" stroke="#edf2ed" stroke-width="8" stroke-linecap="round" />
+  <line x1="96" y1="156" x2="224" y2="156" stroke="#215b3c" stroke-width="8" stroke-linecap="round" />
+  <rect x="84" y="140" width="14" height="32" rx="4" fill="#a0d9ac" />
+  <rect x="222" y="140" width="14" height="32" rx="4" fill="#a0d9ac" />
+</svg>

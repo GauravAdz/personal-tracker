@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 240" role="img" aria-label="Exercise illustration placeholder">
+  <rect width="320" height="240" rx="16" fill="#151c18" />
+  <rect x="16" y="16" width="288" height="208" rx="12" fill="#1c2620" stroke="#3e5043" stroke-width="2" />
+  <text x="160" y="116" text-anchor="middle" fill="#edf2ed" font-family="system-ui, sans-serif" font-size="15" font-weight="600">Text-guided exercise</text>
+  <text x="160" y="140" text-anchor="middle" fill="#b3c0b5" font-family="system-ui, sans-serif" font-size="12">Follow the step-by-step form instructions below</text>
+</svg>
